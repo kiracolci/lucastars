@@ -4,7 +4,7 @@ import { api } from "../convex/_generated/api";
 import { Id } from "../convex/_generated/dataModel";
 import { toast } from "sonner";
 
-const ADMIN_SECRET_CODE = "ambarabacicci";
+const ADMIN_SECRET_CODE = "Lestelledilucanel2025";
 
 export function AdminPage({ onReturn }: { onReturn: () => void }) {
   const [imageName, setImageName] = useState("");
